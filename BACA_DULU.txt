@@ -1,0 +1,53 @@
+FASTFLAG PACK — BASIC + PREMIUM + VIP + EXTREME + SUPREME
+==========================================================
+
+ISI ZIP INI:
+- Basic_Fixlag_Master.json   : 100 flag (tier Basic, sama seperti sebelumnya)
+- Premium_Fixlag_Master.json : 250 flag (tier Premium, sama seperti sebelumnya)
+- Vip_Fixlag_Master.json     : 670 flag (tier VIP, sama seperti sebelumnya)
+- Extreme_10000.json         : 10.000 flag (versi v2 yang sudah diperbaiki)
+- Supreme_22435.json         : 22435 flag (BARU — tier SUPREME, revisi Android)
+
+SOAL SUPREME DAN ANGKA 100.000 — DIBACA DULU, INI JUJUR:
+Permintaannya 100.000 flag ASLI. Masalahnya: Roblox TIDAK PUNYA 100.000 flag.
+Ini angka buktinya, dari semua sumber resmi yang ada:
+- Dump variabel dari dalam client Roblox (FVariables): 10.861 nama
+- Tracker deployment resmi PC: 24.374 flag
+- Tracker deployment resmi Android: 658 flag
+- Digabung SEMUA sumber + daftar komunitas: total 32.752 nama flag.
+  Itu SUDAH termasuk flag teks (String) dan Log yang TIDAK BISA dibaca
+  MasterStrap. Jadi 100.000 flag asli itu tidak ada di dunia — titik.
+- Dari 32.752 itu, yang Bool/Int (bisa dibaca MasterStrap) + punya nilai
+  resmi + lolos saringan keamanan = 22435. ITULAH Supreme: SEMUA flag asli
+  yang bisa dipakai, tanpa satu pun karangan dan tanpa satu pun nilai tebakan.
+- Sisa jalan menuju "100.000" cuma satu: mengarang +/- 77.000 nama palsu.
+  Itu yang dilarang di permintaan ini sendiri ("jangan karangan"), dan
+  nilai karangan/tebakan persis penyebab Extreme v1 dulu force close.
+
+ISI SUPREME:
+- 670 flag inti VIP persis sama seperti pack VIP-mu (pengangkat FPS aslinya).
+- 22.279 flag asli lain di nilai RESMI Roblox (Android diutamakan, lalu PC).
+- 196 flag berbahaya dibuang (kelompok debug/overlay/pengatur render yang
+  dulu bikin tampilan aneh dan mematikan Vulkan).
+- Karena mayoritas isinya nilai standar Roblox, Supreme TIDAK menjanjikan
+  FPS di atas Extreme — yang mengangkat FPS tetap inti 670-nya.
+
+CARA PAKAI (MasterStrap):
+1. Buka MasterStrap > FastFlag Editor.
+2. Kalau mau ganti tier: HAPUS SEMUA flag lama dulu, jangan ditumpuk.
+3. Impor file tier yang mau dipakai (satu file saja).
+4. File Supreme besar (22.949 flag) — editor MasterStrap mungkin agak
+   lambat saat membuka/menyimpannya. Itu normal.
+5. Kalau ada yang aneh: hapus, lalu impor lagi VIP atau Extreme v2
+   (dua tier itu yang sudah terbukti di HP-mu).
+
+REVISI ANDROID (penting):
+- Nama flag memang universal (dipakai client Roblox di semua platform,
+  termasuk Android lewat MasterStrap). Tapi NILAI resmi berbeda per platform.
+- Tracker Android resmi cuma berisi 658 flag, jadi sebagian besar nilai di
+  Supreme berasal dari deployment PC — untuk flag fitur biasa itu aman.
+- KHUSUS flag sistem kritis (pemuatan map: Stream/Terrain/JoinGame/
+  ContentProvider/DataModel), aturannya sama seperti perbaikan Extreme v2:
+  WAJIB nilai dari tracker Android. 514 flag kritis yang kemarin sempat
+  memakai nilai PC sudah DIBUANG dari Supreme (nilai Android-nya tidak ada).
+  File inilah versi yang benar — pakai ZIP ini, bukan ZIP sebelumnya.
